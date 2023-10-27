@@ -1,0 +1,30 @@
+{
+    "settings": {
+        "ui": {
+            "touch": {
+                "sensitivity": 50
+            }
+        },
+        "gui": {
+            "grid": {
+                "color": [ 255, 255, 255, 20 ],
+                "size": 32,
+                "show": true
+            },
+            "infos": {
+                "optionals": true,
+                "touch": true
+            },
+            "theme": "dark",
+            "language": "englsh"
+        }
+    },
+    "map": {
+        "name": "untituled",
+        "grid": {
+            "size": 32
+        },
+        "blocks": {},
+        "objects": {}
+    }
+}

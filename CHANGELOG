@@ -1,0 +1,22 @@
+-------version: 07x24b mars-------
+@+ bugfixs
+@+ rotation
+@+ invert horizontal and vertical
+@+ delete layer
+@+ pc version
+@- tile by tile
+@- swipe option
+$ only sets
+$ change sprite clicking in spitesheet
+$ credits
+$ sensitivity system
+$ select block
+-------version: v1.1.7 jupter---------
+@+ bugfixes
+@+ zoom
+@+ tileset scroll
+@+ block preview
+@- delete layer
+$ now when you go change the layer during the
+"change layer" state it only show the current layer.
+$ new buttons hitbox
